@@ -1,0 +1,44 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    background-color: red
+  }
+  
+  header h1 {
+    font-size: 100px;
+    text-align: center;
+    background-color: white;
+  }
+  nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+   nav img{
+   width: 2000px;
+   height: 300px;
+
+      
+    
+     }
+     nav h1{
+        color: blue;
+        background-color: red;
+     }
+     main{
+        display: flex;
+        align-items: center;
+     }
+     main img{
+        width:800px;
+     }
+     footer ul{
+        border: 20px;
+        list-style-type: square;
+        display: flex;
+        align-items: center;
+     }
+      
